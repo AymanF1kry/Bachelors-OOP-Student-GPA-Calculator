@@ -1,5 +1,10 @@
 # Student GPA Calculator (Java)
 
+![Java](https://img.shields.io/badge/Java-Programming-red?logo=java)
+![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?logo=apachenetbeanside)
+![Swing](https://img.shields.io/badge/Java-Swing-orange)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 This is a Java-based Student GPA Calculator developed as part of an assignment for the **Introduction to Object-Oriented Programming** course during my bachelor's degree. 
 The application allows students to input their semester subjects, credit hours, and marks to automatically calculate their GPA, including helpful features like error validation, theming, and 
 academic status indication.
